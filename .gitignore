@@ -1,0 +1,7 @@
+.vscode/
+.metals/
+*.class
+/target/
+/build/
+.idea/
+*.iml.metals/metals.log
